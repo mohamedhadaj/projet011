@@ -1,5 +1,11 @@
-# projet011
-le projet permet de  réaliser une application avec le langage c# qui transforme un autoumate de NFA vers DFA
-et affiche un graphe avec Visual studio .
-le projet réalise par:
-Mohamed hadaj et Mehdi El hajjani  et  ayman azreg et othmane el hanchi.
+# NFA vers DFA avec c#
+
+le projet consiste a  réaliser une application avec le langage c# qui transforme un automate
+NFA en DFA puis afficher un graphe avec Visual studio .
+
+le projet a été réalisé par:
+Mohamed hadaj,
+Mehdi  Hajjani, 
+Ayman Azreg ,
+othmane el hanchi.
+
