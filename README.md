@@ -5,8 +5,8 @@ NFA en DFA puis afficher un graphe avec les interfaces graphique de Visual studi
 
 pour lancer l'application suiver les etapes suivant:
 
-1-ouvrir le fichier principale NFA-DFA.csproj qui est dans ce chemin projet011/NFA-DFA/NFA-DFA.csproj  et ouvrir avec Visuel studio .
-2-lancer l'application avec un click sur start dans visuel studio. 
+1-ouvrir l'application NFA-DFA.exe qui dans le fichier projet011/NFA-DFA/bin/Debug/NFA-DFA.exe   
+2-lancer l'application NFA-DFA.exe. 
 
 3-entrer les transition de l'automate NFA.
 
